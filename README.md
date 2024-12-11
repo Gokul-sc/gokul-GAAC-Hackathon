@@ -1,4 +1,3 @@
-# gokul-GAAC-Hackathon
 # Team Introduction
 
 ## Team Members:
